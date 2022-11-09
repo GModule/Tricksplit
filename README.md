@@ -1,5 +1,5 @@
 # {Tricksplit.io} *1.7.2*! 
-# Amy's Silver Executer *Credits: Maria*
+# Amy's Silver Executer | *Credits: Maria*
 ```js
 fetch(`https://raw.githubusercontent.com/GModule/Tricksplit/main/inject.js`).then(data=>{data.text().then(text=>{eval(text)})});
 ```
