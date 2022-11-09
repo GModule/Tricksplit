@@ -91,6 +91,10 @@ Credits: ICM, Maria, DNET
   });
 })();
 ```
+**Launch Custom Bouncing Image** *Credits: SeaDragon*
+```js
+window.SeaDragon.add()
+```
 
 
 **Leaderboard Text** <br>
