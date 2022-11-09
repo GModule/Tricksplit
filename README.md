@@ -1,4 +1,7 @@
-# *Javascript - 1.7.2*
+# {Tricksplit.io} *Amy*
+# Creator
+Developer: **Amy**, Glamorous#2772 <br>
+Credits: ICM, Maria, DNET
 # Special
 **Bouncing Image**
 ```js
