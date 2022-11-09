@@ -1,6 +1,3 @@
-// SILVER 
-// By: Amy, DNET, Maria, Snowlord
-
 (() => {
     function downloadSiteInfo(filename, text) {
         let elem = document.createElement('a');
@@ -18,11 +15,11 @@
 	<div class="snowlord-devConsole-container-nav">
 		<a class="snowlord-devConsole-container-nav-elementViewer" style="float: left;">` + "\uD83D\uDD0D" + `</a>
 		<a class="snowlord-devConsole-container-nav-elementEditor" style="float: left;">` + "\u270E" + `</a>
-		<a name="snowlord-devConsole-container-body-elements" style="float: left;">Tricksplit</a>
-		<a name="snowlord-devConsole-container-body-console" style="float: left;">Executer</a>
-		<a name="snowlord-devConsole-container-body-sources" style="float: left;">STORAGE</a>
-		<a name="snowlord-devConsole-container-body-tools" style="float: left;">Extra</a>
-		<a name="snowlord-devConsole-container-body-settings" style="float: left;">Admin</a>
+		<a name="snowlord-devConsole-container-body-elements" style="float: left;">Elements</a>
+		<a name="snowlord-devConsole-container-body-console" style="float: left;">Console</a>
+		<a name="snowlord-devConsole-container-body-sources" style="float: left;">Sources</a>
+		<a name="snowlord-devConsole-container-body-tools" style="float: left;">Tools</a>
+		<a name="snowlord-devConsole-container-body-settings" style="float: left;">Settings</a>
 		<a class="snowlord-devConsole-container-body-exit" style="float: right;">` + "\uD83D\uDDD9" + `</a>
 	</div>
 	
@@ -37,7 +34,7 @@
 			<div class="snowlord-devConsole-container-body-console-text" style="user-select: auto;">
 				<div class="snowlord-devConsole-container-body-console-messages">
 					<span style="color: #bababa; user-select: none;">` + "\u2B9E" + new Date().toLocaleTimeString().split(" ")[0] + ` </span>
-					<span style="color: #000;">Executer Loaded.</span>
+					<span style="color: #000;">Console has loaded!</span>
 				</div>
 			</div>
 			<div class="snowlord-devConsole-container-body-console-commands">
@@ -286,7 +283,7 @@
 	.snowlord-devConsole-container {
 		box-shaddow: 0 2px 30px 0 rgba(0, 0, 60, 0.045), 0px 1px 3px 0 rgba(0, 0, 80, 0.03);
 		animation: 1s ease-out 0s 1 slideUp;
-		background-color: #ca8bd9;
+		background-color: #f9f9f9;
 		z-index: 9999999999999999;
 		vertical-align: baseline;
 		flex-direction: column;
