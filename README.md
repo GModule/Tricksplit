@@ -96,6 +96,7 @@ Credits: ICM, Maria, DNET
 window.SeaDragon.add()
 ```
 
+# Game
 
 **Leaderboard Text** <br>
 ```js
