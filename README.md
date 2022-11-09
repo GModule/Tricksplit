@@ -1,4 +1,4 @@
-# {Tricksplit.io} *Amy*
+# {Tricksplit.io} *1.7.2*
 # Creator
 Developer: **Amy**, Glamorous#2772 <br>
 Credits: ICM, Maria, DNET
