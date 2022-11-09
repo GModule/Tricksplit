@@ -525,7 +525,7 @@ Local Storage: ${JSON.stringify(localStorage)}
     }
 
     document.getElementsByClassName("snowlord-devConsole-container-body-exit")[0].addEventListener("click", function () {
-        if (confirm(atob("QXJlIHlvdSBzdXJlIHlvdSB3b3VsZCBsaWtlIHRvIGNsb3NlIFNub3dMb3JkJ3MgRGV2ZWxvcGVyIENvbnNvbGU/"))) {
+        
             document.getElementsByClassName("snowlord-devConsole-container")[0].remove();
             document.getElementsByClassName("snowlord-devConsole-tooltip-container")[0].remove();
             document.getElementsByClassName("snowlord-devConsole-injectedCss")[0].remove();
@@ -533,7 +533,7 @@ Local Storage: ${JSON.stringify(localStorage)}
             snowlord_variables.hijackFunctions = false;
             snowlord_variables.loaded = false;
             snowlord_variables.showing = false;
-        }
+        
     });
 
     document.getElementsByClassName("snowlord-devConsole-container-nav-elementEditor")[0].addEventListener("click", function () {
