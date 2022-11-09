@@ -1,4 +1,4 @@
-# {Tricksplit.io} *1.7.2*
+# {Tricksplit.io} *1.7.2*!
 **Re-Released** *The old GITHUB was banned, I do not know why but this one will be updated!?*
 # Creator
 Developer: **Amy**, Glamorous#2772 <br>
