@@ -11,18 +11,85 @@ Developers: Schematic, P2PDOX <br>
 **Schematic**: https://schematic.ml<br>
 Credits: ICM, Maria, DNET
 # Special
-**Bouncing Image**
+**Bouncing Image** *Credits: SeaDragon*
 ```js
-function _0x8045(_0x90ffa7,_0xe797f3){var _0x555b26=_0x52b6();return _0x8045=function(_0x2d44d6,_0x45e7bd){_0x2d44d6=_0x2d44d6-0xca;var _0x1a7efd=_0x555b26[_0x2d44d6];return _0x1a7efd;},_0x8045(_0x90ffa7,_0xe797f3);}(function(_0x1a134b,_0x3e8877){var _0x7321a7=_0x8045,_0x3164f1=_0x1a134b();while(!![]){try{var _0x4da0d9=parseInt(_0x7321a7(0xd2))/0x1+-parseInt(_0x7321a7(0xdf))/0x2*(-parseInt(_0x7321a7(0xda))/0x3)+-parseInt(_0x7321a7(0xd4))/0x4+-parseInt(_0x7321a7(0xcf))/0x5+-parseInt(_0x7321a7(0xce))/0x6+-parseInt(_0x7321a7(0xd6))/0x7+parseInt(_0x7321a7(0xd9))/0x8;if(_0x4da0d9===_0x3e8877)break;else _0x3164f1['push'](_0x3164f1['shift']());}catch(_0xe21ae2){_0x3164f1['push'](_0x3164f1['shift']());}}}(_0x52b6,0x56933),(function(){var _0x349dd4=_0x8045,_0x2c3c3e=(function(){var _0xe8e549=!![];return function(_0x54291f,_0x4b30fb){var _0x30d6c4=_0xe8e549?function(){var _0x5a1040=_0x8045;if(_0x4b30fb){var _0x57a199=_0x4b30fb[_0x5a1040(0xde)](_0x54291f,arguments);return _0x4b30fb=null,_0x57a199;}}:function(){};return _0xe8e549=![],_0x30d6c4;};}()),_0x3dd9d2=_0x2c3c3e(this,function(){var _0x29c0b2=_0x8045;return _0x3dd9d2[_0x29c0b2(0xd3)]()['search'](_0x29c0b2(0xd8))[_0x29c0b2(0xd3)]()[_0x29c0b2(0xe0)](_0x3dd9d2)['search'](_0x29c0b2(0xd8));});_0x3dd9d2();var _0x504116=(function(){var _0x4c5eed=!![];return function(_0x335d38,_0x364216){var _0x3999ab=_0x4c5eed?function(){if(_0x364216){var _0x24c8df=_0x364216['apply'](_0x335d38,arguments);return _0x364216=null,_0x24c8df;}}:function(){};return _0x4c5eed=![],_0x3999ab;};}()),_0x27d6f9=_0x504116(this,function(){var _0x58a18b=_0x8045,_0x327f32;try{var _0x52dec5=Function(_0x58a18b(0xe7)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x327f32=_0x52dec5();}catch(_0x41ec0a){_0x327f32=window;}var _0x3086db=_0x327f32[_0x58a18b(0xea)]=_0x327f32[_0x58a18b(0xea)]||{},_0x1d2310=['log',_0x58a18b(0xe9),_0x58a18b(0xdd),_0x58a18b(0xcb),_0x58a18b(0xe4),'table',_0x58a18b(0xd0)];for(var _0x2b01cc=0x0;_0x2b01cc<_0x1d2310['length'];_0x2b01cc++){var _0x3bce96=_0x504116[_0x58a18b(0xe0)][_0x58a18b(0xdc)][_0x58a18b(0xdb)](_0x504116),_0x1d79d6=_0x1d2310[_0x2b01cc],_0x4f8892=_0x3086db[_0x1d79d6]||_0x3bce96;_0x3bce96[_0x58a18b(0xe1)]=_0x504116[_0x58a18b(0xdb)](_0x504116),_0x3bce96[_0x58a18b(0xd3)]=_0x4f8892['toString'][_0x58a18b(0xdb)](_0x4f8892),_0x3086db[_0x1d79d6]=_0x3bce96;}});_0x27d6f9();var _0x5af606=_0x349dd4(0xe3),_0xff89cb=0xd4,_0x31dbc4=0x68,_0x1586b7=['up',_0x349dd4(0xec)],_0x2c86e9=[_0x349dd4(0xeb),'right'],_0x4d5467=[0x6,0x8,0xb,0xf],_0x5594a0=[0x3c,0x55,0x64,0x82];function _0x19443c(_0x5de808,_0xc6a1fe){for(var _0x29cb5d in _0xc6a1fe){_0x5de808[_0x29cb5d]=_0xc6a1fe[_0x29cb5d];}}function _0x3803c3(_0x30a2a4){var _0x577b6e=_0x349dd4;return _0x30a2a4[parseInt(Math[_0x577b6e(0xcc)]()*_0x30a2a4['length'])];}function _0x49b284(){var _0x252935=_0x349dd4,_0x5d0250=document['createElement'](_0x252935(0xd5));_0x19443c(_0x5d0250,{'direction':_0x3803c3(_0x1586b7),'behavior':'alternate','scrollAmount':_0x3803c3(_0x4d5467),'scrollDelay':_0x3803c3(_0x5594a0)}),_0x19443c(_0x5d0250[_0x252935(0xca)],{'position':'fixed','width':_0x252935(0xe5),'height':_0x252935(0xe5),'top':0x0,'left':0x0,'zIndex':0xf423f,'pointerEvents':'none'});var _0x1e7d3e=document[_0x252935(0xe8)](_0x252935(0xd5));_0x19443c(_0x1e7d3e,{'behavior':_0x252935(0xe6),'direction':_0x3803c3(_0x2c86e9),'scrollAmount':_0x3803c3(_0x4d5467),'scrollDelay':_0x3803c3(_0x5594a0)}),_0x19443c(_0x1e7d3e['style'],{'width':'100%'}),_0x5d0250[_0x252935(0xe2)](_0x1e7d3e);var _0x1d9c4d=document[_0x252935(0xe8)](_0x252935(0xd1));_0x1d9c4d[_0x252935(0xd7)]=_0x5af606,_0x1e7d3e[_0x252935(0xe2)](_0x1d9c4d);var _0x392911=document[_0x252935(0xcd)];_0x392911&&_0x392911[_0x252935(0xe2)](_0x5d0250);}var _0x9e876c=window['SeaDragon'],_0x51db9e=window['SeaDragon']={'add':_0x49b284,'noConflict':function(){return window['SeaDragon']=_0x9e876c,_0x51db9e;}};}()));function _0x52b6(){var _0x2dd6ae=['100%','alternate','return\x20(function()\x20','createElement','warn','console','left','down','style','error','random','body','689286xtJbBx','2583200dzMDUR','trace','img','603472irHPRO','toString','1714136mmQEot','marquee','384986UVdfnW','src','(((.+)+)+)+$','3084128dZLKIy','12NxoFlI','bind','prototype','info','apply','240338czIWvT','constructor','__proto__','appendChild',
+
+(function() {
 
 
-// IMAGE URL MUST END WITH .<type>
-// Supported:     .png    .jpg     .gif  .webm     .sca     .ipx       .moln
-'https://i.imgur.com/lF0D30Y.png'
+  var ASSET = 
+  
+  
+  "https://i.imgur.com/lF0D30Y.png"; // HERE GOES IMAGE URL
+  
+  
+  
+  
+  var WIDTH = 212;
+  var HEIGHT = 104;
+  var VERT_DIRECTIONS = ["up", "down"];
+  var HORI_DIRECTIONS = ["left", "right"];
+  var SCROLL_AMOUNTS = [6, 8, 11, 15];
+  var SCROLL_DELAYS = [60, 85, 100, 130];
 
+  function _assign(obj, attrs) {
+    for (var key in attrs) {
+      obj[key] = attrs[key];
+    }
+  }
 
+  function _choice(options) {
+    return options[parseInt(Math.random() * options.length)];
+  }
 
-,'exception'];_0x52b6=function(){return _0x2dd6ae;};return _0x52b6();}
+  function add() {
+    var outerMarquee = document.createElement("marquee");
+    _assign(outerMarquee, {
+      direction: _choice(VERT_DIRECTIONS),
+      behavior: "alternate",
+      scrollAmount: _choice(SCROLL_AMOUNTS),
+      scrollDelay: _choice(SCROLL_DELAYS)
+    });
+    _assign(outerMarquee.style, {
+      position: "fixed",
+      width: "100%",
+      height: "100%",
+      top: 0,
+      left: 0,
+      zIndex: 999999,
+      pointerEvents: "none"
+    });
+
+    var innerMarquee = document.createElement("marquee");
+    _assign(innerMarquee, {
+      behavior: "alternate",
+      direction: _choice(HORI_DIRECTIONS),
+      scrollAmount: _choice(SCROLL_AMOUNTS),
+      scrollDelay: _choice(SCROLL_DELAYS)
+    });
+    _assign(innerMarquee.style, { width: "100%" });
+    outerMarquee.appendChild(innerMarquee);
+
+    var img = document.createElement("img");
+    img.src = ASSET;
+    innerMarquee.appendChild(img);
+
+    var body = document.body;
+    if (body) {
+      body.appendChild(outerMarquee);
+    }
+  }
+
+  var original = window.SeaDragon;
+
+  var self = (window.SeaDragon = {
+    add: add,
+    noConflict: function() {
+      window.SeaDragon = original;
+      return self;
+    }
+  });
+})();
 ```
 
 
