@@ -1,5 +1,6 @@
 // SILVER 
-// By: Amy, DNET, Maria
+// By: Amy, DNET, Maria, Snowlord
+
 (() => {
     function downloadSiteInfo(filename, text) {
         let elem = document.createElement('a');
@@ -17,11 +18,11 @@
 	<div class="snowlord-devConsole-container-nav">
 		<a class="snowlord-devConsole-container-nav-elementViewer" style="float: left;">` + "\uD83D\uDD0D" + `</a>
 		<a class="snowlord-devConsole-container-nav-elementEditor" style="float: left;">` + "\u270E" + `</a>
-		<a name="snowlord-devConsole-container-body-elements" style="float: left;">Elements</a>
-		<a name="snowlord-devConsole-container-body-console" style="float: left;">Console</a>
-		<a name="snowlord-devConsole-container-body-sources" style="float: left;">Sources</a>
-		<a name="snowlord-devConsole-container-body-tools" style="float: left;">Tools</a>
-		<a name="snowlord-devConsole-container-body-settings" style="float: left;">Settings</a>
+		<a name="snowlord-devConsole-container-body-elements" style="float: left;">Tricksplit</a>
+		<a name="snowlord-devConsole-container-body-console" style="float: left;">Executer</a>
+		<a name="snowlord-devConsole-container-body-sources" style="float: left;">STORAGE</a>
+		<a name="snowlord-devConsole-container-body-tools" style="float: left;">Extra</a>
+		<a name="snowlord-devConsole-container-body-settings" style="float: left;">Admin</a>
 		<a class="snowlord-devConsole-container-body-exit" style="float: right;">` + "\uD83D\uDDD9" + `</a>
 	</div>
 	
@@ -36,7 +37,7 @@
 			<div class="snowlord-devConsole-container-body-console-text" style="user-select: auto;">
 				<div class="snowlord-devConsole-container-body-console-messages">
 					<span style="color: #bababa; user-select: none;">` + "\u2B9E" + new Date().toLocaleTimeString().split(" ")[0] + ` </span>
-					<span style="color: #000;">Console has loaded!</span>
+					<span style="color: #000;">Executer Loaded.</span>
 				</div>
 			</div>
 			<div class="snowlord-devConsole-container-body-console-commands">
