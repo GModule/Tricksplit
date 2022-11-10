@@ -8,7 +8,7 @@ fetch(`https://raw.githubusercontent.com/GModule/Tricksplit/main/inject.js`).the
 **Re-Released** *The old GITHUB was banned, I do not know why but this one will be updated!?*
 # Creator
 Owner: **Amy**, Glamorous#2772 <br>
-Lead Developer: **Caleb**, gflashs#3272
+Lead Developer: **Caleb**, gflashs#3272 <br>
 Developers: Schematic, P2PDOX <br>
 **P2PDOX**: https://p2pdox.cf<br>
 **Schematic**: https://schematic.ml<br>
